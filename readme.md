@@ -1,4 +1,5 @@
 # fastleaner
 
 
-fast learning about github especially using markdown
+fast learning about github git sprint use of github.
+
